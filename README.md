@@ -153,7 +153,7 @@ plt.show()
 <img src="1.png" width=30%>
 
 ### ii) Image Scaling
-<img src="2.png" height="200" width=30%>
+<img src="2.png" width=30%>
 
 ### iii)Image shearing
 <img src="3.png" height="200" width=30%>
